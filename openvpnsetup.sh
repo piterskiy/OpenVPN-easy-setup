@@ -1,5 +1,5 @@
 #! /bin/bash
-#
+# https://habrahabr.ru/post/335516/
 # Express setup of OpenVPN server 
 # for CentOS 7.x and Ubuntu Server 16.x / 17.x
 # by xl-tech https://github.com/xl-tech
